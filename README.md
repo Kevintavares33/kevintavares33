@@ -28,7 +28,7 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 ### 🌱 I’m currently learning ...
 
 <div style="display: inline_block">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <br>
+<img align="center" alt="c#" src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white> <br>
 
 
 ### Technology lover, constantly evolving.
