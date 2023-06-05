@@ -27,10 +27,10 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 
 ### 🌱 I’m currently learning ...
 
-<div style ="display: inline_block">
-  <img align = "center" alt= "java src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></div>
-                                                                                                                                  
+<div style="display: inline_block">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
 
+</div><br/>
 
 
 ### Technology lover, constantly evolving.
