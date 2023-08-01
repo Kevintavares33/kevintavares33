@@ -38,13 +38,13 @@ Atualmente sou desenvolvedor Back-end na PREVIC(Superintendência Nacional de Pr
 • Certificações:
 (Certifications)
 
-###> META = Programming with JavaScript
+> META = Programming with JavaScript
 
-###> META = Back-End Development
+> META = Back-End Development
 
-###> META = Front-End Development
+> META = Front-End Development
 
-###STAKS : JAVA , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
+STAKS : JAVA , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
 
 ### Technology lover, constantly evolving.
 
