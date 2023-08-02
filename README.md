@@ -28,11 +28,12 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ### Hello World!!
-I'm Kevin Tavares, Software Engineering student and Software Developer for  one year with experience in JavaScript using React.JS and Node.JS for web applications.
-I am currently Back-end developer at PREVIC (National Superintendence of Complementary Pensions) where I work with the Java language, using Spring Boot, SQL for Oracle DB and SQL Server.
+I'm Kevin Tavares, Software Engineering student and Software Developer with experience in JavaScript using React.JS and Node.JS for web applications.
+I am currently a Back-end developer at PREVIC (National Superintendence of Complementary Pensions) where I work with Java Language, using Spring Boot, SQL for SQL Server.
+
 
 Olá Mundo!!
-Sou Kevin Tavares, estudante de Engenharia de Software e Desenvolvedor de Software a 1 ano com  experiencia em JavaScript utilizado React.JS e Node.JS para aplicações Web.
+Sou Kevin Tavares, estudante de Engenharia de Software e Desenvolvedor de Software com  experiencia em JavaScript utilizado React.JS e Node.JS para aplicações Web.
 Atualmente sou desenvolvedor Back-end na PREVIC(Superintendência Nacional de Previdência Complementar) onde trabalho com a Linguagem Java, utilizando Spring Boot, SQL para SQL Server.
 
 • Certificações:
