@@ -28,13 +28,14 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 ### Hello World!!
-I'm Kevin Tavares, Software Engineering student and Software Developer with experience in JavaScript using React.JS and Node.JS for web applications.
+I'm Kevin Tavares, Full Stack Software Engineer with experience in JavaScript using React.JS, React Native and Node.JS for Web and Mobile applications.
 I am currently a Back-end developer at PREVIC (National Superintendence of Complementary Pensions) where I work with Java Language, using Spring Boot, SQL for SQL Server.
-
+I'm passionate about programming and development, I'm always updating myself to get the best results.
 
 Olá Mundo!!
-Sou Kevin Tavares, estudante de Engenharia de Software e Desenvolvedor de Software com  experiencia em JavaScript utilizado React.JS e Node.JS para aplicações Web.
-Atualmente sou desenvolvedor Back-end na PREVIC(Superintendência Nacional de Previdência Complementar) onde trabalho com a Linguagem Java, utilizando Spring Boot, SQL para SQL Server.
+Sou Kevin Tavares,  Engenheiro de Software Full Stack com  experiencia em JavaScript utilizado React.JS, React Native e Node.JS para aplicações Web e Mobile.
+Atualmente sou desenvolvedor Back-end na PREVIC (Superintendência Nacional de Previdência Complementar) onde trabalho com a Linguagem Java, utilizando Spring Boot, SQL para SQL Server.
+Sou apaixonado por programação e desenvolvimento, estou sempre me atualizando para ter o melhores resultados.
 
 • Certificações:
 (Certifications)
@@ -45,7 +46,7 @@ Atualmente sou desenvolvedor Back-end na PREVIC(Superintendência Nacional de Pr
 
 > META = Front-End Development
 
-STAKS : JAVA , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
+STAKS : JAVA , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT,REACT NATIVE, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
 
 ### Technology lover, constantly evolving.
 
