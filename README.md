@@ -20,12 +20,12 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
 
 ### 🌱 I’m currently learning ...
-<div style="display:inline_block">
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 
 ### Hello World!!
 I'm Kevin Tavares, Full Stack Software Engineer with experience in JavaScript using React.JS, React Native and Node.JS for Web and Mobile applications.
