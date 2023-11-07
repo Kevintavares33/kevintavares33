@@ -28,23 +28,32 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 
 
 ### Hello World!!
-I'm Kevin Tavares, Full Stack Software Engineer with experience in JavaScript using React.JS, React Native and Node.JS for Web and Mobile applications.
+I'm Kevin Tavares, Full Stack Software Engineer with experience in JavaScript and TypeScript using React.JS, React Native and Node.JS for Web and Mobile applications.
 I am currently a Back-end developer at PREVIC (National Superintendence of Complementary Pensions) where I work with Java Language, using Spring Boot, SQL for SQL Server.
-I'm passionate about programming and development, I'm always updating myself to get the best results.
 
-Olá Mundo!!
-Sou Kevin Tavares,  Engenheiro de Software Full Stack com  experiencia em JavaScript utilizado React.JS, React Native e Node.JS para aplicações Web e Mobile.
-Atualmente sou desenvolvedor Back-end na PREVIC (Superintendência Nacional de Previdência Complementar) onde trabalho com a Linguagem Java, utilizando Spring Boot, SQL para SQL Server.
-Sou apaixonado por programação e desenvolvimento, estou sempre me atualizando para ter o melhores resultados.
 
 • Certificações:
 (Certifications)
 
+<> Certificações:
+<>Certifications:
+
+<> META  Certification =  Professional Front-End Development
+> META = Front-End Development
 > META = Programming with JavaScript
+> META =  HTML And Css in depth
+> META =  Version Control
+> META =  React Basics
+>META  =  Advanced React
+> META = Principles of UX/UI Design
 
 > META = Back-End Development
 
-> META = Front-End Development
+<> Meta iOS Developer Professional Certificate -  4/12
+> META = Introduction to iOS Mobile Application Development
+> META =  Version Control
+> META =  React Basics
+> META = Principles of UX/UI 
 
 STAKS : JAVA , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT,REACT NATIVE, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
 
