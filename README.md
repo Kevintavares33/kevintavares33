@@ -24,6 +24,9 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
