@@ -1,4 +1,4 @@
-### Hi!! Hello World!!, my name is Kevin Tavares 👨‍💻
+### Hi!! Hello World, my name is Kevin Tavares 👨‍💻
 
 
 ### 
