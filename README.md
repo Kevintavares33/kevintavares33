@@ -36,15 +36,14 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 
 
 
-<> Certificações:
+<>Certificações:
 <>Certifications:
 
-<> META  Certification =  Professional Front-End Development
+<> Meta  Certification =  Professional Front-End Development
 
 <> Meta iOS Developer Professional Certificate -  6/12
 
-
-STAKS : Kotlin , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT,REACT NATIVE, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
+<> Meta Android Developer Professional Certificate -  6/12
 
 ### Technology lover, constantly evolving.
 
