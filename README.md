@@ -36,24 +36,10 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 
 
 
-
-
-• Certificações:
-(Certifications)
-
 <> Certificações:
 <>Certifications:
 
 <> META  Certification =  Professional Front-End Development
-> META = Front-End Development
-> META = Programming with JavaScript
-> META =  HTML And Css in depth
-> META =  Version Control
-> META =  React Basics
->META  =  Advanced React
-> META = Principles of UX/UI Design
-
-> META = Back-End Development
 
 <> Meta iOS Developer Professional Certificate -  6/12
 
