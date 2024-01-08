@@ -55,13 +55,10 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 
 > META = Back-End Development
 
-<> Meta iOS Developer Professional Certificate -  4/12
-> META = Introduction to iOS Mobile Application Development
-> META =  Version Control
-> META =  React Basics
-> META = Principles of UX/UI 
+<> Meta iOS Developer Professional Certificate -  6/12
 
-STAKS : JAVA , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT,REACT NATIVE, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
+
+STAKS : Kotlin , SPRING BOOT ,JAVASCRIPTES6, HTML5, CSS3, REACT.JS ,REACT,REACT NATIVE, REDUX, API, TYPESCRIPT, FIREBASE, NODE.JS , PYTHON ,MONGODB, SQL
 
 ### Technology lover, constantly evolving.
 
