@@ -6,7 +6,7 @@ I'm Kevin Tavares, Full Stack Software Engineer with experience in JavaScript, T
 I am currently a Full-Stack developer at PREVIC (National Superintendence of Complementary Pensions) where I work with Java Language, using Spring Boot, SQL for SQL Server and React.Js.
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ktavares.dev@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevintavares_6/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevintavares_3/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](
 https://twitter.com/Kvtavares)
 [![linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
