@@ -12,7 +12,7 @@ https://twitter.com/Kvtavares)
 [![linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/kevin-tavares-473091199/)
 [![github](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevintavares33)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://wa.me/556193030000))
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556193030000)
 
 
 
