@@ -1,8 +1,8 @@
-### Hi!! Hello World, My name is Kevin Tavares 👨‍💻
+### Hello World, My name is Kevin Tavares 👨‍💻
 # My Portfolio <a href='https://portfolio-kevintavares33.vercel.app/'>Click and discover</a>  
 <a  href='https://portfolio-kevintavares33.vercel.app/'> ![bannerkv](https://github.com/Kevintavares33/Portfolio/assets/125915861/79254dd8-e9b7-4a13-9d4b-809dec5c2a71) </a>
 ### 
-I'm Kevin Tavares, android Developer!
+Android Developer!
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ktavares.dev@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevintavares_3/)
