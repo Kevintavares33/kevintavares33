@@ -41,9 +41,6 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 
 <> Meta React Native Professional Expert
 
-<> Meta iOS Developer Professional Certificate -  6/12
-
-<> Meta Android Developer Professional Certificate -  6/12
 
 ### Technology lover, constantly evolving.
 
