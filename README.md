@@ -36,6 +36,12 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 <>Certificações:
 <>Certifications:
 
+<> Java Explore Oracle
+
+<> Foundational C# with Microsoft
+
+<> Meta Working with Data 
+
 <> Meta  Certification =  Professional Front-End Development
 
 <> Meta React Native Professional Expert
