@@ -33,12 +33,10 @@ https://www.linkedin.com/in/kevin-tavares-473091199/)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 
-<>Certificações:
 <>Certifications:
 
 <> Java Explore Oracle
 
-<> Foundational C# with Microsoft
 
 <> Meta Working with Data 
 
